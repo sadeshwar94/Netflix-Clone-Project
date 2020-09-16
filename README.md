@@ -43,10 +43,10 @@ Follow this guy on Youtube channel (trust me, you will never regret) : </br>
 ## Screens
 
 `Screen 1`
-![Screen1](img/netflix-clone-img2.png)
+![Screen1](https://uploads.codesandbox.io/uploads/user/c6e9d4cd-b95b-483b-b15a-8c6efa066330/uS_j-netflix-clone-img1.png)
 
 `Screen 2`
-![Screen2](img/netflix-clone-img1.png)
+![Screen2](https://uploads.codesandbox.io/uploads/user/c6e9d4cd-b95b-483b-b15a-8c6efa066330/D6lE-netflix-clone-img2.png)
 
 ---
 
